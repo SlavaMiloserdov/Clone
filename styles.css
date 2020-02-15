@@ -1,0 +1,29 @@
+body {
+  max-width: 1000px;
+  margin: 50px auto;
+  background-color: #faefe1;
+  font-family: 'Noto Sans JP', sans-serif;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 350px;
+  height: 500px;
+  margin: 30px auto;
+  border: 2px solid #7a5757;
+}
+
+ol {
+  border: 2px solid #7a5757;
+  border-radius: 10px;
+}
+
+li {
+  margin-top: 10px;
+  font-size: 18px;
+}
